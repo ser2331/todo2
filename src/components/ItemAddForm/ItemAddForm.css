@@ -1,0 +1,21 @@
+.add-panel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.add-item{
+    width: 100%;
+    height: 40px;
+    margin: 10px;
+    border-radius: 15px;
+    outline: none;
+}
+.btn{
+    width: 100px;
+    height: 45px;
+    border-radius: 15px;
+    outline: none;
+}
+.btn:active{
+    background-color: blue;
+}
