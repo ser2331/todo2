@@ -1,0 +1,23 @@
+.search-panel {
+    display: flex;
+    justify-content: center;
+    height: 35px;
+}
+
+.search-style {
+    font-size: 25px;
+    margin-right: 10px;
+    border-radius: 10px;
+    outline: none;
+}
+
+.search {
+    height: 35px;
+}
+
+.act {
+background-color: skyblue;
+}
+
+
+
